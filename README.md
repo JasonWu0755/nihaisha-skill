@@ -11,6 +11,8 @@ Claude Code / Codex / OpenClaw Skill。装进 agent 后，可以用自然语言�
 [![TCM](https://img.shields.io/badge/TCM-%E5%80%AA%E6%B5%B7%E5%8E%A6-green.svg)](./references/index.md)
 [![Course](https://img.shields.io/badge/course-multi--module-blue.svg)](./references/index.md)
 
+**English** → [docs/README.en.md](./docs/README.en.md)
+
 </div>
 
 ---
